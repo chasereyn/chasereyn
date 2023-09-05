@@ -23,6 +23,8 @@ I'm a third-year student pursuing a degree in Computational Mathematics at the U
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" width="30" height="30"/>
 </p>
 
-LETS CONNECT
+## 🤝 Let's Connect
           
-STATS AND STATISTICS
+- mavreyn.com (WIP)
+- [Medium](https://medium.com/@mcreynolds02)
+- [LinkedIn](https://www.linkedin.com/in/maverickreyn/)
