@@ -25,6 +25,6 @@ I'm a third-year student pursuing a degree in Computational Mathematics at the U
 
 ## 🤝 Let's Connect
           
-- mavreyn.com (WIP)
-- [Medium](https://medium.com/@mcreynolds02)
+- [mavreyn.com](https://mavreyn.com/)
+- [Medium](https://medium.com/@mcreynolds02/)
 - [LinkedIn](https://www.linkedin.com/in/maverickreyn/)
